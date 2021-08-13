@@ -10,7 +10,7 @@
 
 <p align="center">A free and open-source SMS/Call bombing application</p>
 
-## NOTE:
+
 
 
 > **Due to the overuse of script, a bunch of APIs have been taken offline. It is okay if you do not receive all the messages.**
